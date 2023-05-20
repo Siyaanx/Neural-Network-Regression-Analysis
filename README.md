@@ -7,7 +7,7 @@ Question 1:
 
 -Regression analysis using neural networks is carried out on the synthesized dataset.
 
-`Report is in the jupyter notebook file uploaded here`.
+`Report is in the Jupyter notebook file uploaded here`.
 
 Question 2:
 
@@ -15,4 +15,4 @@ Question 2:
 
 -Classification analyis using neural networks is carried out on the Iris dataset.
 
-`Report is in the jupyter notebook file uploaded here`.
+`Report is in the Jupyter notebook file uploaded here`.
